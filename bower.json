@@ -1,0 +1,22 @@
+{
+  "name": "pink_oliphant",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Liam Ellis <liamhellis@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "bootstrap": "^3.3.6",
+    "Chart.js": "^2.1.3"
+  }
+}
